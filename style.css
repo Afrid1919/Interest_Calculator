@@ -21,7 +21,8 @@ h1{
 h5{
     font-family:Georgia, 'Times New Roman', Times, serif;
     color: rgb(187, 59, 238);
-    font-size: 3.0em;
+    font-size: 2.5em;
+    font-weight: bold;
     text-align: center;
     margin: 10px 15px;
     padding: 3px 5px;
@@ -30,7 +31,7 @@ form{
     background-color: rgb(104, 125, 245);
     max-width: 430px;
     margin: auto;
-    padding: 35px;
+    padding: 25px;
     border-radius: 20px;
     box-shadow: 5px 5px 10px hsl(0, 0%, 0%, 0.3);
     display: flex;
@@ -51,11 +52,7 @@ input{
     margin-bottom: 15px;
     padding: 10px 15px;
 }
-/* #placeholder{
-    text-align: center;
-    font-size: 0.5em;
-    border: 2px solid rgb(212, 180, 180);
-} */
+
 button{
     background-color: rgb(253, 176, 11);
     color: white ;
