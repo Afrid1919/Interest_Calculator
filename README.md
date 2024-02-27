@@ -16,6 +16,7 @@ JavaScript
 ## Usage
 Clone the repository:
 git clone https://github.com/yourusername/interest-calculator.git
+replace yourusername with your GitHub username in the clone URL
 
 ## Navigate to the project directory:
 cd interest-calculator
